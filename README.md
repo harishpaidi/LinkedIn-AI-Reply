@@ -5,6 +5,9 @@ This is a Chrome Extension that runs on Linkedin and assists users in geerating 
 ## Demo 
 
 
+https://github.com/user-attachments/assets/9c60dcf8-5619-42a2-8bb4-689ec85a60fe
+
+
 ## Setup
 
 1. Run `npm i`
