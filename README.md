@@ -4,8 +4,7 @@ This is a Chrome Extension that runs on Linkedin and assists users in geerating 
 
 ## Demo 
 
-
-https://github.com/user-attachments/assets/9c60dcf8-5619-42a2-8bb4-689ec85a60fe
+https://github.com/user-attachments/assets/1bbebcdf-f6c7-4476-ac8d-025d8f568deb
 
 
 ## Setup
